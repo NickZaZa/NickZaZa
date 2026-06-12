@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Apisit! 👋 💻🔌
 
-<!--
-**NickZaZa/NickZaZa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student who loves turning ideas into reality. I thrive on hands-on building, connecting hardware with software, and creating practical engineering solutions.
 
-Here are some ideas to get you started:
+*   **⚡ Focus:** Embedded Systems, Hardware Inventions, and App Development.
+*   **🛠️ Style:** Learning by doing, visualizing, and building things from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+*   **Hardware:** Arduino, ESP32, Circuit Design, Power Electronics, IoT Sensors
+*   **Software:** C/C++, Python, JavaScript, App Development
+
+---
+
+## 🚀 Featured Projects
+
+*   **IoT Ozone Generation System:** Built an automated ozone system for air purification, integrating high-voltage hardware with safety controls.
+*   **Smart Hardware Controller:** Developed an app to interface and control custom hardware inventions wirelessly.
+
+---
+
+## 📬 Contact
+*   **Email:** your.email@email.com
+*   

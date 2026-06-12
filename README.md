@@ -22,5 +22,5 @@ I'm a Computer Engineering student who loves turning ideas into reality. I thriv
 ---
 
 ## 📬 Contact
-*   **Email:** your.email@email.com
+*   **Email:** apisit.woongkawmoon@gmail.com
 *   
